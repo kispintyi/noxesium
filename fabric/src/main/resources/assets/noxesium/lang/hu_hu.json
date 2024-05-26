@@ -1,0 +1,37 @@
+{
+  "debug.experimental_patches.disabled": "Noxesium UI teljesítményjavítások kikapcsolva",
+  "debug.experimental_patches.enabled": "Noxesium UI teljesítményjavítások bekapcsolva",
+  "debug.experimental_patches.help": "F3 + W = Noxesium UI teljesítményjavítások ki-/bekapcsolása",
+
+  "debug.fps_overlay.disabled": "FPS számláló kikapcsolva",
+  "debug.fps_overlay.enabled": "FPS számláló bekapcsolva (kikapcsolható az F3 + Y billentyűkombinációval)",
+  "debug.fps_overlay.help": "F3 + Y = Képernyőn megjelenő FPS számláló ki-/bekapcsolása",
+  "debug.fps_overlay": "%s fps",
+
+  "debug.noxesium_overlay.on": "Noxesium: §aBe",
+  "debug.noxesium_overlay.off": "Noxesium: §cKi",
+
+  "noxesium.options.pages.noxesium": "Noxesium",
+  "noxesium.options.fps_overlay.name": "FPS átfedés",
+  "noxesium.options.fps_overlay.tooltip": "Ha engedélyezve van, egy átfedés kerül hozzáadásra, amely a képernyő bal felső sarkában mutatja a jelenlegi FPS-t.",
+  "noxesium.options.experimental_patches.name": "Kísérleti teljesítményjavítások",
+  "noxesium.options.experimental_patches.tooltip": "§4(figyelmeztetés: instabil!)\n§fEngedélyezi a kísérleti UI teljesítményjavításokat, amelyek teljesen kicserélik az összes UI renderelési kódot, hogy sokkal jobban fusson a játék.\n\n§cFigyelmeztetés: §fHa bármilyen UI renderelési problémát tapasztalsz ezen beállítás használata közben, kérlek, jelentsd a problémát a Noxesiumnak, ne a többi érintett modnak.",
+  "noxesium.options.reset_toggle_keys.name": "Váltó billentyűk visszaállítása halálkor",
+  "noxesium.options.reset_toggle_keys.tooltip": "Azt szabályozza, hogy a futás-t/lopakodás-t váltó billentyűt visszaállítsa-e halálkor az alapértelmezettre. Alapból a vanilla-ban engedélyezve van.",
+
+  "category.noxesium": "Noxesium",
+
+  "key.noxesium.glow.red": "Piros Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.orange": "Narancssárga Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.yellow": "Sárga Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.lime": "Citromzöld Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.green": "Zöld Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.cyan": "Cián Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.aqua": "Tengerkék Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.blue": "Kék Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.purple": "Lila Kiemelés be/kikapcsolása (Szemlélőknek)",
+  "key.noxesium.glow.pink": "Rózsaszín Kiemelés be/kikapcsolása (Szemlélőknek)",
+
+  "key.noxesium.glow.all": "Összes Kiemelés Engedélyezése (Szemlélőknek)",
+  "key.noxesium.glow.none": "Összes Kiemelés Letiltása (Szemlélőknek)"
+}
